@@ -91,4 +91,4 @@ Le fichier de test et démonstration le plus complet est **__larbo__**.
 
 - LECERF Manech
 
-- SMOTER Noa ([LinkeIn](https://www.github.com/nerzouille) / [Portfolio](https://nerzouille.github.io/))
+- SMOTER Noa ([LinkedIn](https://www.linkedin.com/in/noa-smoter/) / [Portfolio](https://nerzouille.github.io/))
